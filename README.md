@@ -1,4 +1,4 @@
-# Sonic-Pi Lesson Plan
+# Learn programming with music course plan
 
 ### A WIP plan to teach simple programming ideas using Sonic-Pi
 ### Target audience: New programmers, no musical knowledge assumed
