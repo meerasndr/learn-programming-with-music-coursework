@@ -1,7 +1,7 @@
 # Sonic-Pi lesson plan
 
 1. Make a beep. 
-	1. Goal: 
+	* Goal: 
 		1. Code: Make a beep with code. Progress to making a sequence of beeps.
 		2. Understand note names
     [Your First Beeps](https://sonic-pi.net/tutorial.html#section-2-1)
