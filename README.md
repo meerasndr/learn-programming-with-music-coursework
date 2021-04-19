@@ -3,7 +3,7 @@
 1. Make a beep. 
 	* Goal: 
 		1. Code: Make a beep with code. Progress to making a sequence of beeps.
-		2. Understand note names
+		2. Understand note names  
     [Your First Beeps](https://sonic-pi.net/tutorial.html#section-2-1)
 2. Make a sequence of beeps
 3. Refactor beeps sequence with a loop
