@@ -39,8 +39,8 @@ end
 7. What are comments in code?
 8. Errors and debugging
 	1. Try removing spaces / indents
-	2. Remove end from a loop
-	3. Remove end from an if-else block
+	2. Remove `end` from a loop
+	3. Remove `end` from an if-else block
 9. Discovering new sounds
 	1. Synths: [Switching Synths](https://sonic-pi.net/tutorial.html#section-2-3)
 	2. Drums
