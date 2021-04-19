@@ -16,7 +16,7 @@
 	end
 ```
 6. If else with rand()
- # Toss a virtual coin
+ `Toss a virtual coin`
 ```
 if rand(1) < 0.5
  # if heads, play two ascending notes
