@@ -1,5 +1,7 @@
 # Sonic-Pi lesson plan
 
+#### A WIP plan to teach simple programming ideas using Sonic-Pi, for non-musicians and new coders
+
 1. Make a beep. 
 	* Goal: 
 		1. Code: Make a beep with code. Progress to making a sequence of beeps.
