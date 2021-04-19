@@ -10,15 +10,14 @@
     [Your First Beeps](https://sonic-pi.net/tutorial.html#section-2-1)
 2. Make a sequence of beeps
 3. Refactor beeps sequence with a loop
-4. Refactor beeps sequence with `sleep`, `amp` and `pan`
-5. Randomisation & sleep
+4. Randomisation & sleep
 ```
 	3.times do
   	play 60 + rand(10)
   	sleep 0.5
 	end
 ```
-6. If else with rand(). 
+5. If else with rand(). 
  `Toss a virtual musical coin`
 ```
 if rand(1) < 0.5
@@ -36,13 +35,13 @@ else
 end
 ```
 
-7. What are comments in code?
-8. Errors and debugging
+6. What are comments in code?
+7. Errors and debugging
 	1. Try removing spaces / indents
 	2. Remove `end` from a loop
 	3. Remove `end` from an if-else block
-9. Discovering new sounds
+8. Discovering new sounds
 	1. Synths: [Switching Synths](https://sonic-pi.net/tutorial.html#section-2-3)
 	2. Drums
 	3. Bass
-10. Make a simple melody with all these ideas
+9. Make a simple melody with all these ideas
