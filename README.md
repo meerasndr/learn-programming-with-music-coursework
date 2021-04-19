@@ -15,8 +15,8 @@
   	sleep 0.5
 	end
 ```
-6. If else with rand()
- `Toss a virtual coin`
+6. If else with rand(). 
+ `Toss a virtual musical coin`
 ```
 if rand(1) < 0.5
  # if heads, play two ascending notes
