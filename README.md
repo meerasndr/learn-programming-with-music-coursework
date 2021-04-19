@@ -1,6 +1,6 @@
 # Learn programming with music course plan
 
-### A WIP plan to teach simple programming ideas using Sonic-Pi
+### A WIP plan to teach simple programming ideas using Python & Music
 ### Target audience: New programmers, no musical knowledge assumed
 
 1. Make a beep. 
