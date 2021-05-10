@@ -26,8 +26,20 @@ for note in reversenotes:
   sleep(0.5)
 ```
 
-Try changing the sleep duration from 0.5 to 1. What happens? <br>
-Shall we try playing the same set of notes 3 times? But, with different sleep duration!
+How do we play each note 2 times?
+```
+notes = ["c3", "d3", "e3", "f3", "g3", "a3", "b3"]
+
+for note in notes:
+    play(note)
+    sleep(0.5)
+    play(note)
+    sleep(0.5)
+```
+
+Try changing the sleep duration from 0.5 to 1. What happens? <br><br>
+
+Shall we try playing the same *set of notes* 3 times? But, with different sleep duration!
 
 ```
 notes = ["c3", "d3", "e3", "f3", "g3", "a3", "b3"]
